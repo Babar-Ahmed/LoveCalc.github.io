@@ -1,0 +1,37 @@
+:root{
+cyan:#01B6E1;
+lightyelow:#E9D758;
+
+}
+body{
+	font-family: "Charm",'cursive';
+	color:black;
+}
+h1{
+	background-color:#E6E6E6;
+	color:white;
+	font-size:60px;
+}
+#lovevalue{
+font-size:30px;
+}
+#msg{
+	display: none;
+}
+.boxbtn{
+	position: relative;
+	left:20%;
+}
+#rit{
+	width:140px;
+	position: absolute;
+	top:5%;
+	left:24%;
+}
+#lft{
+	float: right;
+position: absolute;
+left:65%;
+width:200px;
+
+}
